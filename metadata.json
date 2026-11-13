@@ -1,0 +1,7 @@
+{
+  "name": "Plain GraFix - Design Agency Hero",
+  "description": "Pixel-perfect modern agency platform for Plain GraFix featuring iconic hero section, high-resolution Featured Works portfolio modal linked to Services, continuous ambient audio soundtrack with responsive controls, Refer a Client modal with pre-filled email templates, interactive design journey, client testimonials, and instant contact channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
